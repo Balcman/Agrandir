@@ -1,16 +1,24 @@
 @font-face {
-    font-family: 'Police1';
-    src: url('https://raw.githubusercontent.com/votre-nom-utilisateur/mes-polices/main/police1.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/votre-nom-utilisateur/mes-polices/main/police1.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-/* Déclaration de la deuxième police */
-@font-face {
-    font-family: 'Police2';
-    src: url('https://raw.githubusercontent.com/votre-nom-utilisateur/mes-polices/main/police2.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/votre-nom-utilisateur/mes-polices/main/police2.woff') format('woff');
+    font-family: 'Agrandir TextBold';
+    src: url('https://github.com/Balcman/Agrandir/blob/a36a72c0d83d4e1f839df32fabb65a33d2d72a95/Agrandir-TextBold.woff2') format('woff2'),
+         url('https://github.com/Balcman/Agrandir/blob/a36a72c0d83d4e1f839df32fabb65a33d2d72a95/Agrandir-TextBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'Agrandir Regular';
+    src: url('https://github.com/Balcman/Agrandir/blob/a36a72c0d83d4e1f839df32fabb65a33d2d72a95/Agrandir-Regular.woff2') format('woff2'),
+         url('https://github.com/Balcman/Agrandir/blob/a36a72c0d83d4e1f839df32fabb65a33d2d72a95/Agrandir-Regular.woff') format('woff');
+    font-weight: regular;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Agrandir ThinItalic';
+    src: url('https://github.com/Balcman/Agrandir/blob/a36a72c0d83d4e1f839df32fabb65a33d2d72a95/Agrandir-ThinItalic.woff2') format('woff2'),
+         url('https://github.com/Balcman/Agrandir/blob/a36a72c0d83d4e1f839df32fabb65a33d2d72a95/Agrandir-ThinItalic.woff') format('woff');
+    font-weight: thin;
+    font-style: italic;
+}
+
